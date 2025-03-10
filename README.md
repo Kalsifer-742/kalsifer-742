@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalsifer-742&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&hide_rank=true&custom_title=Stats&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalsifer-742&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
